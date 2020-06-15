@@ -76,3 +76,7 @@ To connect to rpi-02, we ssh to localhost on port 2202 from the VPS:
 $ ssh -p 2202 pi@localhost
 pi@rpi-02:~ $
 ```
+
+## Other Use-Cases
+
+- [Remote MySQL with SSH Tunnel](https://github.com/ruanbekker/ssh-reverse-tunnel/wiki/Remote-MySQL-With-SSH-Tunnel)
